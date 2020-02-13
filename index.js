@@ -12,7 +12,6 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
   const animal ='monkey'
-  console.log(animal)
   return animal
   
 }
