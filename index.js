@@ -12,7 +12,7 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
   let animal1 ='monkey'
-  return animal
+  return animal1
 }
 
 function add2(n) {
