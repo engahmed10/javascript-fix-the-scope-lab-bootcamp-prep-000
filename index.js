@@ -12,7 +12,7 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
   var youranimal ='monkey'
-   var animal = youranimal
+   const animal = youranimal
   return animal
   
 }
